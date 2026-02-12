@@ -64,7 +64,23 @@ Part A – Technical Questions
    ● Category
    ● Region
    ● Sales
-3. What data type is assigned to the “Sales” column?
-4. Which Power BI view allows you to see raw data?
-5. What chart type is best for showing trends over time?
-6. What aggregation is automatically applied to Sales?
+2. What data type is assigned to the “Sales” column?
+   - Decimal Number
+3. Which Power BI view allows you to see raw data?
+   - Data View
+4. What chart type is best for showing trends over time?
+   - Line Chart
+5. What aggregation is automatically applied to Sales?
+   - Sum (SUM)
+     
+Part B – Analytical Questions
+6. Which region has the highest total sales?
+ - West Region has the highest total sales.
+7. Which category has the lowest performance?
+ - Office Supplies has the lowest sales among the categories.
+8. Are sales increasing, decreasing, or stable?
+ - Decreasing Overtime 
+9. If you were a manager, which region would you prioritize?
+ - I would prioritize the West Region to maximize revenue since it performs best, while also improving strategies in the North Region, which has the lowest sales.
+10. Provide one actionable recommendation based on the data.
+ - Increase marketing and promotional efforts in the North region to boost sales, while continuing strong inventory and advertising support for Electronics, the top-performing category.
