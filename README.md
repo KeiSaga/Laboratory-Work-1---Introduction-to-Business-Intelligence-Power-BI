@@ -84,3 +84,59 @@ Part B – Analytical Questions
  - I would prioritize the West Region to maximize revenue since it performs best, while also improving strategies in the North Region, which has the lowest sales.
 10. Provide one actionable recommendation based on the data.
  - Increase marketing and promotional efforts in the North region to boost sales, while continuing strong inventory and advertising support for Electronics, the top-performing category.
+
+Task 1: Add a Card Visualization
+1. Insert Card
+2. Drag Sales
+3. Format:
+○ Increase font size
+○ Change title to “Total Sales”
+
+Question:
+● What is the total sales amount?
+ - 220k Total Sales
+Task 2: Add Slicer
+1. Insert Slicer
+2. Drag Region
+3. Test filtering
+Question:
+● What happens to other visuals when you click a region?
+ - All other visuals on the report page automatically update to display data only for the selected region. Charts, totals, and graphs adjust instantly based on the filter.
+● Why is filtering important in BI?
+ - Filtering is important because it:
+ ● Allows users to analyze specific segments of data
+ ● Helps in comparing performance between regions
+ ● Supports better decision-making
+ ● Makes reports interactive and user-friendly
+
+Enables quick identification of trends and issues in a selected area
+Task 3: Sort Sales
+1. Click Region Chart
+2. Click three dots (...)
+3. Sort by Sales Descending
+Question:
+● Does sorting improve readability?
+ - Yes, sorting improves readability.
+● Why?
+   ●  It clearly shows highest to lowest performers at a glance
+   ●  Makes comparison easier between regions
+   ●  Helps users quickly identify top and low sales areas
+   ●  Reduces confusion from random bar positions
+
+Supports faster and better data-driven decisions
+Task 4: Identify Outliers
+● Which region is significantly higher or lower?
+ -  The West Region is the highest-performing region.
+ -  The North Region is the lowest-performing and stands out as an underperforming outlier.
+● What might explain that difference?
+Possible reasons include:
+- Larger customer base in the West
+- Stronger market demand
+- Better marketing and promotional strategies
+- More developed distribution channels
+- Higher population or business activity
+For the North region, lower sales may be due to:
+- Limited market reach
+- Lower demand
+- Fewer promotional campaigns
+- Economic or demographic factors
