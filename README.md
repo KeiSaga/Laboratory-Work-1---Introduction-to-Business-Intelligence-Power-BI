@@ -136,9 +136,13 @@ Possible reasons include:
 - More developed distribution channels
 - Higher population or business activity
 For the North region, lower sales may be due to:
-
-PDF file link : https://drive.google.com/file/d/1HOV28m_R6xQQ4E-jtvTnUrsDdg-Xbbij/view?usp=drive_link
 - Limited market reach
 - Lower demand
 - Fewer promotional campaigns
 - Economic or demographic factors
+
+
+
+
+
+PDF file link : https://drive.google.com/file/d/1HOV28m_R6xQQ4E-jtvTnUrsDdg-Xbbij/view?usp=drive_link
